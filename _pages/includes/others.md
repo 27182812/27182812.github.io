@@ -1,5 +1,5 @@
 
-# 📖 Educations
+# 📖 Education
 - *2023.02 - Now*, Ph.D Candidate, Harbin Institute of Technology, Harbin, China.
 - *2020.09 - 2023.01*, Master, Tianjin University, Tianjin, China.
 - *2017.09 - 2018.07*, Exchange Student, Xidian University, Xian, China.
