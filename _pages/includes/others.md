@@ -12,3 +12,6 @@
 # 💻 Internships
 - *2022.05 - 2022.06*, Alibaba, Beijing, China.
 - *2022.03 - 2022.04*, Baidu, Beijing, China.
+
+# 🤗 Community Services
+ACL Rolling Review (23/24), EMNLP Rolling Review (23/24), NAACL Rolling Review (25).
